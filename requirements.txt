@@ -7,5 +7,4 @@ notebook
 streamlit
 xgboost
 prophet
-fbprophet
 plotly
